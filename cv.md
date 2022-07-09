@@ -1,7 +1,10 @@
-# См ниже:
-[Это ссылка на мою страницу](https://github.com/grishail986/rsschool-cv.git)
+[rsschool-cv](https://github.com/grishail986/rsschool-cv.git)
+## Gregory Ilchenko
+### Junior Frontend Developer
+#### Contact information:
+**Phone:** +7 968 954 15 01
 
-> Работаю по прицнипу меньше знаешь — больше гуглишь
+**E-mail:** grishail986@gmail.com
 
-*Связаться со мной: grishail986@gmail.com*
+**Telegram:** @grishail986
 
