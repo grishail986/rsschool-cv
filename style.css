@@ -92,3 +92,13 @@ html {
 .year {
   color: white;
 }
+
+.github-profile {
+  color: white;
+  text-decoration: none;
+  transition: .3s;
+}
+
+.github-link a:hover {
+  color: gray;
+}
