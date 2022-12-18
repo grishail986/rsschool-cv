@@ -1,0 +1,104 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  min-height: 100vh;
+  margin: 0; padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: #829985;
+}
+
+.footer {
+  background-color: #829985;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+
+  .nav-list a:hover {
+    color: gray;
+  }
+
+html {
+  scroll-behavior: smooth; 
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+  text-decoration: none;
+  transition: .3s;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.section {
+  width: 50%;
+}
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
+
+#profile {
+  padding: 10%;
+  font-size: 25px;
+}
+
+#projects a:hover {
+  color: gray;
+}
+
+#my-foto {
+    padding: 50px 0 0 250px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.github-link {
+  padding-right: 80%;
+}
+
+.nav-link {
+  color: white;
+}
+
+.year {
+  color: white;
+}
+
+.github-profile {
+  color: white;
+  text-decoration: none;
+  transition: .3s;
+}
+
+.github-link a:hover {
+  color: gray;
+}
